@@ -1,0 +1,17 @@
+{
+  "name": "divine-hooks-dev",
+  "version": "0.0.4",
+  "description": "A simple library for creating hooks",
+  "type": "module",
+  "main": "dist/DivineBinaryTags.js",
+  "types": "dist/DivineBinaryTags.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/Divine-Star-Software/DivineHooks"
+  },
+  "homepage": "https://github.com/Divine-Star-Software/DivineHooks",
+  "author": "Divine Star Software",
+  "license": "MIT"
+}
