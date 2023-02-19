@@ -1,10 +1,10 @@
 {
-  "name": "divine-hooks-dev",
+  "name": "divine-hooks",
   "version": "0.0.4",
   "description": "A simple library for creating hooks",
   "type": "module",
-  "main": "dist/DivineBinaryTags.js",
-  "types": "dist/DivineBinaryTags.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
